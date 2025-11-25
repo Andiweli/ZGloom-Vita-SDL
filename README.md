@@ -1,4 +1,4 @@
-# ZGloom-Vita – SDL port of Amiga **Gloom** for PS Vita / PSTV
+# ZGloom-Vita<br/>SDL port of Amiga **Gloom** for PS Vita / PSTV
 
 > SDL-based port of the modern **ZGloom** engine, bringing the classic Amiga FPS **Gloom** (plus Gloom Deluxe, Gloom 3 and Zombie Massacre) to **PlayStation Vita** and **PSTV** as a native homebrew game.
 
@@ -56,9 +56,6 @@ ZGloom-Vita now includes:
   - **Film grain**  
   - **Scanlines**  
 
-- 🔊 **Higher-quality audio defaults**  
-  `SDL_mixer` and LibXMP player set to **44 kHz** (previously 22 kHz) for cleaner in-game sound.
-
 - 🧹 **General cleanup & polish**  
   - Unified `config.txt` and new default values  
   - Menu items and descriptions revised and optimized  
@@ -102,9 +99,9 @@ Alternatively, you can use the original game files from your own game installati
 
 Additionally, there is a download of pre-packed game files provided with permission from **Gareth Murfin** (see link in the original README).
 
-### 1. Install the VPK
+### 1. Install the VPK from [the latest releases](https://github.com/Andiweli/ZGloom-Vita-SDL/releases)
 
-1. Download the latest `.vpk` from the Releases page.  
+1. Download the latest `.vpk` from the [Releases](https://github.com/Andiweli/ZGloom-Vita-SDL/releases) page.  
 2. Install the `.vpk` on your PS Vita / PSTV using VitaShell or your preferred homebrew method.
 
 ### 2. Prepare the game data
@@ -117,19 +114,6 @@ Download the `.zip` of the game(s) you want to play, extract them on your PC, an
 - `ux0:/data/zgloom/massacre`
 
 Once the folders and data files are in the right place, start **ZGloom-Vita** from LiveArea and select the game you want from the integrated launcher.
-
----
-
-## 🔊 In-game music (XMP modules)
-
-ZGloom supports in-game music using any module format that **XMP** can play (for example `.mod` and other tracker formats).
-
-1. Put your module files (mods) into the `sfxs` folder of the game data.  
-2. Add a line such as the following to the script:
-
-   song_blitz.mod
-
-You can add **multiple `song_` commands**, which allows **per-level music** (each level can use a different module).
 
 ---
 
