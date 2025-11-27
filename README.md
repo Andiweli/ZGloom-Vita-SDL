@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Outdated fork, please use the [Vita2D port of ZGloomVita](https://github.com/Andiweli/ZGloom-Vita-Vita2D)
+
 # ZGloom-Vita<br/>SDL port of Amiga **Gloom** for PS Vita / PSTV
 
 > SDL-based port of the modern **ZGloom** engine, bringing the classic Amiga FPS **Gloom** (plus Gloom Deluxe, Gloom 3 and Zombie Massacre) to **PlayStation Vita** and **PSTV** as a native homebrew game.
