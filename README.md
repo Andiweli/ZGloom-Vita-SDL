@@ -8,6 +8,8 @@
 [![Latest release](https://img.shields.io/github/v/release/andiweli/ZGloom-Vita-SDL?label=latest%20Vita%20release)](https://github.com/andiweli/ZGloom-Vita-SDL/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-PS%20Vita%20%2F%20PSTV-blue)](https://github.com/andiweli/ZGloom-Vita-SDL)
 [![Engine](https://img.shields.io/badge/renderer-SDL2%20software-brightgreen)](https://github.com/andiweli/ZGloom-Vita-SDL)
+[![Support via PayPal](https://img.shields.io/badge/Support%20via-PayPal-0070BA?logo=paypal\&logoColor=white)](https://paypal.me/andiweli)
+
 
 **ZGloom-Vita** is an SDL port of [ZGloom](https://github.com/Swizpig/ZGloom) for the **PlayStation Vita / PSTV**.  
 It is a fork of [JetStreamSham/ZGloom-vita](https://github.com/JetStreamSham/ZGloom-vita) with:
@@ -181,6 +183,18 @@ Instead, it may display alternative imagery such as the Black Magic image.
 
 - **VitaSDK** – open SDK for PS Vita homebrew  
   - https://vitasdk.org/
+
+---
+
+## ❤️ Support
+
+If you enjoy this project and would like to support my work, you can make a small contribution via PayPal.
+
+Your support helps me spend more time maintaining existing projects, fixing bugs, improving compatibility, and working on new features.
+
+[![Support via PayPal](https://img.shields.io/badge/Support%20via-PayPal-0070BA?logo=paypal\&logoColor=white)](https://paypal.me/andiweli)
+
+Thank you for your support!
 
 ---
 
